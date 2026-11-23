@@ -33,4 +33,4 @@ For the extension, I will create controlled higher-obstacle-density versions of 
 - **Fallback:** If the full benchmark or dependency setup cannot be completed, run the official pretrained iA* model on a smaller, clearly reported subset of 64×64 MP maps and compare it with A* on the same instances. If the pretrained model cannot be loaded, report the setup limitation honestly and reduce the experiment to the smallest reproducible subset rather than claiming the paper’s result was reproduced.
 
 ---
-**Repository:** [Add your GitHub repository URL here]
+**Repository:** https://github.com/Kainat256/iAstar-Path-Planning-Capstone
